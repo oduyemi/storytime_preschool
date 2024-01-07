@@ -1,4 +1,4 @@
-#Storytime Preschool
+# Storytime Preschool
 
 This a web appliation for a private daycare center that allows parents to view child's daily activity in real time
 ## Getting Started
